@@ -1,4 +1,4 @@
-# list-games-flask
+# Rest API with Flash and Flask-Restful
 
 ## Como rodar o projeto?
 
